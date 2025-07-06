@@ -9,3 +9,5 @@ Like songs to show preference
 Remove the entire playlist when desired
 
 The goal was to create a responsive and interactive user experience using up-to-date JavaScript features.
+
+You can visit the live project here: https://jumonsalve7.github.io/playlist/
